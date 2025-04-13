@@ -11,9 +11,9 @@ Sou um desenvolvedor backend em formação, apaixonado por tecnologia, sistemas 
 
 ## 🚀 Tecnologias que estou estudando
 
-- 🔹 Java & Spring Boot  
+- 🔹 Java 21 & Spring Boot  
 - 🔹 JPA / Hibernate  
-- 🔹 Testes com JUnit  
+- 🔹 Testes com JUnit + Mockito
 - 🔹 MySQL / PostgreSQL  
 - 🔹 Git & GitHub  
 - 🔹 Boas práticas de código e arquitetura limpa
@@ -22,10 +22,9 @@ Sou um desenvolvedor backend em formação, apaixonado por tecnologia, sistemas 
 
 ## 📘 Projetos em destaque
 
-- 💳 Sistema bancário com autenticação e testes unitários  
-- 🛒 API de carrinho de compras com regras de negócio testadas com JUnit (padrão BDD)  
-- 📚 Sistema de empréstimo de livros com camada de serviço, DTOs, validações e mais
-
+- 💳 Testes unitários em um sistema bancário simples (depósito e saque), com validações e cenários de exceção  
+- 🛒 Testes unitários de um carrinho de compras, cobrindo regras de negócio e validações usando JUnit com padrão BDD  
+- 📚 Sistema de empréstimo de livros completo com camada de serviço, DTOs, validações, e persistência de dados
 *Você pode conferir esses projetos nos meus repositórios públicos!*
 
 ---
@@ -38,9 +37,9 @@ Atuar como **Desenvolvedor Backend Java**, entregando valor real através de có
 
 ## 📬 Contato
 
-- 📧 mateus@email.com  
+- 📧 cmcontact.mateus@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/devmateussilva/)
-- 📂 Repositórios: [github.com/seuusuario](https://github.com/HB-DevJourney)
+- 📂 Repositórios: [github.com/HB-DevJourney](https://github.com/HB-DevJourney)
 
 ---
 
