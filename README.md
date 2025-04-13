@@ -11,7 +11,7 @@ Sou um desenvolvedor backend em formação, apaixonado por tecnologia, sistemas 
 
 ## 🚀 Tecnologias que estou estudando
 
-![Java](https://img.shields.io/badge/Java-17-blue?style=flat-square&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-21-blue?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green?style=flat-square&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-enabled-success?style=flat-square&logo=springsecurity)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=flat-square&logo=hibernate)
