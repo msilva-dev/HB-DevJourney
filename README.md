@@ -11,12 +11,15 @@ Sou um desenvolvedor backend em formação, apaixonado por tecnologia, sistemas 
 
 ## 🚀 Tecnologias que estou estudando
 
-- 🔹 Java 21 & Spring Boot  
-- 🔹 JPA / Hibernate  
-- 🔹 Testes com JUnit + Mockito
-- 🔹 MySQL / PostgreSQL  
-- 🔹 Git & GitHub  
-- 🔹 Boas práticas de código e arquitetura limpa
+![Java](https://img.shields.io/badge/Java-17-blue?style=flat-square&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-enabled-success?style=flat-square&logo=springsecurity)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=flat-square&logo=hibernate)
+![JUnit 5](https://img.shields.io/badge/JUnit-5-red?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
