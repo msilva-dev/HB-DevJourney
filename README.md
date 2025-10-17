@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus dos Santos Silva! 👋
+# Olá, eu sou o Mateus Silva! 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devmateussilva/" target="_blank">
@@ -53,7 +53,7 @@ Acredito que um bom software é construído sobre alicerces sólidos, e é por i
     <td width="50%" valign="top">
       <h3 align="center">Sistema de Controle Financeiro Pessoal</h3>
       <br />
-      <a target="_blank" href="[LINK_PARA_O_REPOSITORIO_QUANDO_ESTIVER_PRONTO]">
+      <a target="_blank" href="https://github.com/msilva-dev/controle-financeiro-pessoal">
         <img src="[LINK_PARA_UMA_IMAGEM_DO_PROJETO]" alt="Sistema de Controle Financeiro Pessoal">
       </a>
       <br />
