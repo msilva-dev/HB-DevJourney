@@ -54,7 +54,7 @@ Acredito que um bom software é construído sobre alicerces sólidos, e é por i
       <h3 align="center">Sistema de Controle Financeiro Pessoal</h3>
       <br />
       <a target="_blank" href="https://github.com/msilva-dev/controle-financeiro-pessoal">
-        <img src="https://cdn.izap.com.br/sintibref-ba.org.br/plus/images?src=educacao-financeira/sintibref---ba.png&width=400&mode=max&v=1" alt="Sistema de Controle Financeiro Pessoal">
+        <img src="https://sucessologia.com.br/wp-content/uploads/2024/12/financas-pessoais.jpg" alt="Sistema de Controle Financeiro Pessoal">
       </a>
       <br />
       <p align="center">
